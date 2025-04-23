@@ -16,3 +16,15 @@ This project is for practicing Git commands.
 - git branch
 - git add
 - git commit
+
+
+## Key Commands to Practice
+- git clone
+- git checkout
+- git branch
+- git add
+- git commit
+- git pull
+- git push
+- git merge
+- git rebase  <-- ADDED
